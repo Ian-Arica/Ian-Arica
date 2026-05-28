@@ -1,16 +1,27 @@
-## Hi there 👋
+# Ian Arica
 
-<!--
-**Ian-Arica/Ian-Arica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering & Artificial Intelligence student focused on building scalable, efficient, and impactful solutions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Passionate about software development and AI
+* Interested in system architecture and problem solving
+* Constantly learning new technologies and improving my skills
+* Building projects, experimenting, and breaking things until they work
+
+## Tech Stack
+
+* Python
+* Java
+* JavaScript
+* Git & GitHub
+* SQL
+* Artificial Intelligence & Machine Learning
+
+## Current Goals
+
+* Developing stronger backend and AI skills
+* Building real-world projects
+* Expanding my knowledge in software engineering
+
+> “Turning ideas into functional systems.”

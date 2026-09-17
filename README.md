@@ -3,7 +3,7 @@
 🎓 Estudiante de **Ingeniería de Software con IA** en SENATI (Perú)
 🚀 Aprendiendo paso a paso: Python, Linux, bases de datos y camino hacia IA y Cloud
 🛠️ Actualmente reforzando fundamentos: modelado de bases de datos, SQL, algoritmia
-📫 Cómo contactarme: *(agrega aquí tu correo, LinkedIn o red preferida)*
+📫 Cómo contactarme: ianfrancoariniza123@gmail.com
 
 ---
 

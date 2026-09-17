@@ -8,7 +8,7 @@
 
 🎓 Estudiante de **Ingeniería de Software con IA** en SENATI (Perú)
 
-<!-- SOCIALS — LinkedIn stays brand blue (glyph vanishes on custom fills). Others themed. -->
+<!-- SOCIALS -->
 <a href="https://www.linkedin.com/in/Ian-Arica/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/ian_arica_"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=aa9bef" alt="Instagram"></a>&nbsp;&nbsp;
 

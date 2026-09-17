@@ -20,9 +20,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,mysql,linux,git&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,mysql,linux,git&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,linux,git&theme=dark" alt="Tech stack">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,mysql,linux,git&theme=dark&v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,mysql,linux,git&theme=light&v=2">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,linux,git&theme=dark&v=2" alt="Tech stack">
 </picture>
 
 </div>

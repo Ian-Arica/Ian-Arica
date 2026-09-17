@@ -7,7 +7,10 @@
 </a>
 
 🎓 Estudiante de **Ingeniería de Software con IA** en SENATI (Perú)
-📫 Cómo contactarme: www.linkedin.com/in/Ian-Arica | ianfrancoariniza123@gmail.com
+
+<!-- SOCIALS — LinkedIn stays brand blue (glyph vanishes on custom fills). Others themed. -->
+<a href="https://www.linkedin.com/in/Ian-Arica/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ian_arica_"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=aa9bef" alt="Instagram"></a>&nbsp;&nbsp;
 
 <img src="https://komarev.com/ghpvc/?username=Ian-Arica&style=flat&color=7AA2F7&label=Visitas+al+perfil" alt="Contador de visitas">
 

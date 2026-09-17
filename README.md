@@ -21,11 +21,11 @@
 
 ![Stats de Ian](https://github-readme-stats.vercel.app/api?username=Ian-Arica&show_icons=true&theme=tokyonight)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Arica&layout=compact&theme=tokyonight)
+![Top Languages](https://vani-stats.vercel.app/api?username=TheOneOh1)
 
 ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Ian-Arica&theme=tokyonight)
 
-![Top Languages](https://vani-stats.vercel.app/api?username=Ian-Arica&theme=tokyonight)
+![Lenguajes más usados](https://vani-stats.vercel.app/api?username=Ian-Arica&theme=tokyonight)
 
 ---
 

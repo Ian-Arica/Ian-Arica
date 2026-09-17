@@ -19,7 +19,7 @@
 
 ## 📊 Mis estadísticas de GitHub
 
-![Stats](https://github-readme-stats-arica1.vercel.app/)
+![Stats de Ian](https://github-readme-stats-arica1.vercel.app/api?username=Ian-Arica&show_icons=true&theme=tokyonight)
 
 ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Ian-Arica&theme=tokyonight)
 

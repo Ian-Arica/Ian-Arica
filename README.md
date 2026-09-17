@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;AI+%26+Cloud+Enthusiast;Linux+User;Aprendiendo+algo+nuevo+cada+d%C3%ADa&center=true&width=500&color=7AA2F7)](https://git.io/typing-svg)
 
 🎓 Estudiante de **Ingeniería de Software con IA** en SENATI (Perú)
-📫 Cómo contactarme: ianfrancoariniza123@gmail.com
 
 </div>
 

@@ -1,29 +1,36 @@
+<div align="center">
+
 # ¡Hola, soy Ian! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;AI+%26+Cloud+Enthusiast;Linux+User;Aprendiendo+algo+nuevo+cada+d%C3%ADa&center=true&width=500&color=7AA2F7)](https://git.io/typing-svg)
+
 🎓 Estudiante de **Ingeniería de Software con IA** en SENATI (Perú)
-🚀 Aprendiendo paso a paso: Python, Linux, bases de datos y camino hacia IA y Cloud
-🛠️ Actualmente reforzando fundamentos: modelado de bases de datos, SQL, algoritmia
-📫 Cómo contactarme: ianfrancoariniza123@gmail.com
+📫 Cómo contactarme: *(agrega aquí tu correo, LinkedIn o red preferida)*
+
+</div>
 
 ---
 
 ## 🧰 Tecnologías y herramientas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=python,java,mysql,linux,git&theme=dark)
+
+</div>
 
 ---
 
 ## 📊 Mis estadísticas de GitHub
 
+<div align="center">
+
 ![Stats de Ian](https://github-stats-extended.vercel.app/api?username=Ian-Arica&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs/?username=Ian-Arica&layout=compact&theme=tokyonight)
 
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Ian-Arica&theme=tokyonight)
+![Racha de contribuciones](https://streak-stats.demolab.com/?user=Ian-Arica&theme=tokyonight)
 
-![Lenguajes más usados](https://vani-stats.vercel.app/api?username=TheOneOh1)
+</div>
 
 ---
 

@@ -25,6 +25,8 @@
 
 ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Ian-Arica&theme=tokyonight)
 
+![Top Languages](https://vani-stats.vercel.app/api?username=Ian-Arica&theme=tokyonight)
+
 ---
 
 ## 🌱 En qué estoy aprendiendo ahora

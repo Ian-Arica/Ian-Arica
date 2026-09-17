@@ -19,13 +19,11 @@
 
 ## 📊 Mis estadísticas de GitHub
 
-![Stats de Ian](https://github-readme-stats.vercel.app/api?username=Ian-Arica&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://vani-stats.vercel.app/api?username=TheOneOh1)
+![Stats de Ian](https://TU-PROPIA-URL.vercel.app/api?username=Ian-Arica&show_icons=true&theme=tokyonight)
 
 ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Ian-Arica&theme=tokyonight)
 
-![Lenguajes más usados](https://vani-stats.vercel.app/api?username=Ian-Arica&theme=tokyonight)
+![Lenguajes más usados](https://vani-stats.vercel.app/api?username=TheOneOh1)
 
 ---
 

@@ -2,9 +2,14 @@
 
 # ¡Hola, soy Ian! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;AI+%26+Cloud+Enthusiast;Linux+User;Aprendiendo+algo+nuevo+cada+d%C3%ADa&center=true&width=500&color=7AA2F7)](https://git.io/typing-svg)
+<a href="https://github.com/Ian-Arica">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;AI+%26+Cloud+Enthusiast;Linux+User;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG">
+</a>
 
 🎓 Estudiante de **Ingeniería de Software con IA** en SENATI (Perú)
+📫 Cómo contactarme: www.linkedin.com/in/Ian-Arica | ianfrancoariniza123@gmail.com
+
+<img src="https://komarev.com/ghpvc/?username=Ian-Arica&style=flat&color=7AA2F7&label=Visitas+al+perfil" alt="Contador de visitas">
 
 </div>
 
@@ -14,7 +19,11 @@
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,java,mysql,linux,git&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,mysql,linux,git&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,mysql,linux,git&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,linux,git&theme=dark" alt="Tech stack">
+</picture>
 
 </div>
 
@@ -24,10 +33,24 @@
 
 <div align="center">
 
-![Stats de Ian](https://github-stats-extended.vercel.app/api?username=Ian-Arica&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs/?username=Ian-Arica&layout=compact&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Ian-Arica&show_icons=true&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Ian-Arica&show_icons=true&theme=default">
+  <img src="https://github-stats-extended.vercel.app/api?username=Ian-Arica&show_icons=true&theme=tokyonight" alt="Stats de Ian">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Ian-Arica&layout=compact&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Ian-Arica&layout=compact&theme=default">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ian-Arica&layout=compact&theme=tokyonight" alt="Lenguajes más usados">
+</picture>
 
-![Racha de contribuciones](https://streak-stats.demolab.com/?user=Ian-Arica&theme=tokyonight)
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ian-Arica&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Ian-Arica&theme=default">
+  <img src="https://streak-stats.demolab.com/?user=Ian-Arica&theme=tokyonight" alt="Racha de contribuciones">
+</picture>
 
 </div>
 
@@ -38,3 +61,7 @@
 - Modelado entidad-relación y consultas SQL avanzadas
 - Fundamentos de programación orientada a objetos
 - Explorando el camino hacia Machine Learning y Cloud (Azure, IA)
+
+<div align="center">
+<sub>Hecho con dedicación · Ian</sub>
+</div>
